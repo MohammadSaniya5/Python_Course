@@ -24,4 +24,4 @@ print("not x:", not x)
 # Membership Operators
 name = "Saniya"
 print("'S' in name:", 'S' in name)
-print("'z' not in name:", 'z' not in name)
+print("'h' not in name:", 'h' not in name)
