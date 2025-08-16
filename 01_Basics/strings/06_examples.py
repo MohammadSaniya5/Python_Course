@@ -27,7 +27,7 @@ words = sentence.split()
 print("Words:", words)
 
 # Example 6: Replacing a word
-new_sentence = sentence.replace("Python", "Java")
+new_sentence = sentence.replace("Python", "c++")
 print("After replacement:", new_sentence)
 
 # Example 7: Reversing a string
